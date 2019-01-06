@@ -1,0 +1,15 @@
+#!/usr/bin/env python3.6
+
+Name = input("Enter your Name: ")
+DOB  = input("Enter your Data of birth in DD/MM/YYYY format: ")
+Age = int(input("Enter your age: "))
+
+
+print(f"{Name} was born on {DOB}")
+print(f"Half of your age is {Age / 2}")
+
+
+
+
+
+
